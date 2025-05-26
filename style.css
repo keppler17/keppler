@@ -333,5 +333,22 @@ body {
     transform: translate(-50%, -50%);
     font-size: 60px;
 }
-
 /* fim botao5 */
+
+.rodape{
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    background-color: chartreuse;
+    text-decoration: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 20px;
+}
